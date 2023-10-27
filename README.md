@@ -1,4 +1,4 @@
-#Robot Framework - Discogs Wishlist Bot
+# Robot Framework - Discogs Wishlist Bot
 
 A robot that goes through the user's Discogs wishlist.
 
